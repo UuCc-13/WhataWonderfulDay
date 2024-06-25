@@ -1,1 +1,1 @@
-# WhataWonderfulDay
+# GitHub familiarization exercise
